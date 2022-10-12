@@ -23,11 +23,15 @@
    
    For using historical data,  With the  help of technology  we predict weather forcasting.
    Weather plays important role in
-                               - Agriculture,
-                               - Airlines,
-                               - Fishing,
-                               -Space sciencce,
-                                -Transportation activities at coastsal areas and sea.
-                                
+                               Agriculture,
+                               Airlines,
+                               Fishing,
+                               Space sciencce,
+                               Transportation activities at coastsal areas and sea.
+    For Agriculture-techonolgy help us for doing activities like plantation,land preparation,fertigation and spraying.
+    For Airlines-technology help us for deciding aeroplanes landing and takeoff time.
+    For Fishing-technology help us for knowing the information of thunderstorm and plan the fishing activites depending on them.
+    For Space science-technology help us for deciding the time and date of launching the satellite and also for other space activities.
+    For transportation activites at coastal areas and sea-technology help us for deciding the arrival and departure timing of ship.
    
 
