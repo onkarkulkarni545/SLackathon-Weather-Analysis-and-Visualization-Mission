@@ -28,4 +28,9 @@
           weather forcast and develope visualizations to showcase 
           the results effectively.
           
+          
+          ### What's the problem?
+
+Optimize Supply Chain Inventory
+Effectively manage and optimize inventory by capturing variables such as lead times, manufac- turing frequency, batch size, and ordering policies from across the supply chain. Ever wondered how the news channels predict weather conditions accurately?
 
