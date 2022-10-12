@@ -2,7 +2,7 @@
 
 A basic GitHub repository example for hackathon. You can make this as simple or as in-depth as you need.
 ## Contents
-- [Submission or project name](#submission-or-project-name)
+- [Weather Anlysis and Visualization](#Weather Anlysis and Visualization)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
