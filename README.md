@@ -17,4 +17,7 @@
    
    ### What's the problem?
  Ever wondered how the news channels predict weather conditions accurately?It's beacause they leverage data science,which is always working in the background in the process of weather preditcton.For all individuals and organizations,it is extremely useful to know accurate  weather conditions. This helps buisness work with more accuracy and without any disruptions. In this challenge analyze and interpret various weather patterns,create  weather forcast and develope visualizations to showcase  the results effectively.
+ 
+   ### How can technology help?
+   
 
