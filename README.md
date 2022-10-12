@@ -21,6 +21,13 @@
  
    ### How can technology help?
    
-   For using historical data,  With the  help of technology such as IBM Whatson and IBM cloud we predict weather forcasting.
+   For using historical data,  With the  help of technology  we predict weather forcasting.
+   Weather plays important role in
+                                Agriculture
+                                Airlines
+                                Fishing
+                                Space sciencce
+                                Transportation activities at coastsal areas and sea
+                                
    
 
