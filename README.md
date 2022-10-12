@@ -27,7 +27,7 @@
                                Airlines,
                                Fishing,
                                Space sciencce,
-                               Transportation activities at coastsal areas and sea.
+                               Transportation activities at coastal areas and sea.
     
    ### The Idea
    With the help of historical data predict the weather conditions using machine learning and artificial intellegence.
