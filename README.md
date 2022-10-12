@@ -28,14 +28,15 @@
                                Fishing,
                                Space sciencce,
                                Transportation activities at coastsal areas and sea.
-    For Agriculture-techonolgy help us for doing activities like plantation,land preparation,fertigation and spraying.
-    For Airlines-technology help us for deciding aeroplanes landing and takeoff time.
-    For Fishing-technology help us for knowing the information of thunderstorm and plan the fishing activites depending on them.
-    For Space science-technology help us for deciding the time and date of launching the satellite and also for other space activities.
+    
+   ### The Idea
+   With the help of historical data predict the weather conditions using machine learning and artificial intellegence.
+     The idea of this project is that gives weather update of our customer.Anlyze the conditions and give some suggestions depending the on their field.
+     For Agriculture- doing activities like plantation,land preparation,fertigation and spraying.
+    For Airlines- deciding aeroplanes landing and takeoff time.
+    For Fishing- knowing the information of thunderstorm and plan the fishing activites depending on them.
+    For Space science- deciding the time and date of launching the satellite and also for other space activities.
     For transportation activites at coastal areas and sea-technology help us for deciding the arrival and departure timing of ship.
    
 
-   ### The Idea
-   With the help of historical data predict the weather conditions using machine learning and artificial intellegence.
-     The idea of this project is that gives weather update of our customer.
        
