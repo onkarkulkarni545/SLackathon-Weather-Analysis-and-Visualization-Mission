@@ -32,8 +32,8 @@
    ### The Idea
    With the help of historical data predict the weather conditions using machine learning and artificial intellegence.
    
-     The idea of this project is that gives weather update of our customer.Anlyze the conditions and give some suggestions depending the on their field.
-     For Agriculture- doing activities like plantation,land preparation,fertigation and spraying.
+   The idea of this project is that gives weather update of our customer.Anlyze the conditions and give some suggestions depending the on their field.
+    For Agriculture- doing activities like plantation,land preparation,fertigation and spraying.
      
     For Airlines- deciding aeroplanes landing and takeoff time.
     
