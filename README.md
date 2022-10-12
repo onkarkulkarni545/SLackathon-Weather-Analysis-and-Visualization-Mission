@@ -23,11 +23,11 @@
    
    For using historical data,  With the  help of technology  we predict weather forcasting.
    Weather plays important role in
-                                Agriculture
-                                Airlines
-                                Fishing
-                                Space sciencce
-                                Transportation activities at coastsal areas and sea
+                               - Agriculture,
+                               - Airlines,
+                               - Fishing,
+                               -Space sciencce,
+                                -Transportation activities at coastsal areas and sea.
                                 
    
 
