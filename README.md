@@ -36,6 +36,6 @@
    
 
    ### The Idea
-     With the help of historical data predict the weather conditions using machine learning and artificial intellegence.
+   With the help of historical data predict the weather conditions using machine learning and artificial intellegence.
      The idea of this project is that gives weather update of our customer.
        
