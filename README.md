@@ -33,15 +33,15 @@
    With the help of historical data predict the weather conditions using machine learning and artificial intellegence.
    
    The idea of this project is that gives weather update of our customer.Anlyze the conditions and give some suggestions depending the on their field.
-    For Agriculture- doing activities like plantation,land preparation,fertigation and spraying.
+   For Agriculture- doing activities like plantation,land preparation,fertigation and spraying.
      
-    For Airlines- deciding aeroplanes landing and takeoff time.
+   For Airlines- deciding aeroplanes landing and takeoff time.
     
-    For Fishing- knowing the information of thunderstorm and plan the fishing activites depending on them.
+   For Fishing- knowing the information of thunderstorm and plan the fishing activites depending on them.
     
-    For Space science- deciding the time and date of launching the satellite and also for other space activities.
+   For Space science- deciding the time and date of launching the satellite and also for other space activities.
     
-    For transportation activites at coastal areas and sea-deciding the arrival and departure timing of ship.
+   For transportation activites at coastal areas and sea-deciding the arrival and departure timing of ship.
    
  ## Demo Video
        
