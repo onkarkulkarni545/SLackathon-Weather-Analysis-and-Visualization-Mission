@@ -1,6 +1,5 @@
 # SLackathon-Weather-Analysis-and-Visualization-Mission
 
-A basic GitHub repository example for hackathon. You can make this as simple or as in-depth as you need.
 ## Contents
  - [Contents](#contents)
   - [Short description](#short-description)
@@ -16,4 +15,5 @@ A basic GitHub repository example for hackathon. You can make this as simple or 
 
    ## Short description
    
-       ### What's the problem?
+      What's the problem?
+          Ever wondered how the news channels predict weather conditions accurately?It's beacause they leverage data science,which is always working in the background in the process of weather preditcton.For all individuals and organizations,it is extremely useful to know accurate weather conditions. This helps buisness work with more accuracy and without any disruptions. In this challenge,analyze and interpret various weather patterns,creat weather forcast and develope visualizations to showcase the results effectively.
