@@ -1,2 +1,15 @@
 # SLackathon-Weather-Analysis-and-Visualization-Mission
-Content
+
+A basic GitHub repository example for hackathon. You can make this as simple or as in-depth as you need.
+## Contents
+- [Submission or project name](#submission-or-project-name)
+  - [Contents](#contents)
+  - [Short description](#short-description)
+    - [What's the problem?](#whats-the-problem)
+    - [How can technology help?](#how-can-technology-help)
+    - [The idea](#the-idea)
+  - [Demo video](#demo-video)
+  - [The architecture](#the-architecture)
+  - [Long description](#long-description)
+  - [Project roadmap](#project-roadmap)
+  - [Live demo](#live-demo)
