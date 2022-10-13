@@ -25,6 +25,7 @@
    ### How can technology help?
    
    For using historical data,  With the  help of technology  we predict weather forcasting.
+   This weather prediction is depend upon IBM Whatson and python.
   
     
    ### The Idea
@@ -41,6 +42,8 @@
    For Space science- deciding the time and date of launching the satellite and also for other space activities.
     
    For transportation activites at coastal areas and sea-deciding the arrival and departure timing of ship.
+   
+   For Government-take some decissions on climate change
    
  ## Demo Video
        
