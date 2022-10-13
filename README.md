@@ -41,9 +41,9 @@
     
    For Space science- deciding the time and date of launching the satellite and also for other space activities.
     
-   For transportation activites at coastal areas and sea-deciding the arrival and departure timing of ship.
+   For transportation activities at coastal areas and sea-deciding the arrival and departure timing of ship.
    
-   For Government-take some decissions on climate change
+   For Government-take some decision on climate change
    
  ## Demo Video
        
