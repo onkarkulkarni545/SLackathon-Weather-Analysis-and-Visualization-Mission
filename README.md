@@ -17,17 +17,15 @@
    ## Short description
    
    ### What's the problem?
- Ever wondered how the news channels predict weather conditions accurately?It's beacause they leverage data science,which is always working in the background in the process of weather preditcton.For all individuals and organizations,it is extremely useful to know accurate  weather conditions. This helps buisness work with more accuracy and without any disruptions. In this challenge analyze and interpret various weather patterns,create  weather forcast and develope visualizations to showcase  the results effectively.
+ Weather plays important role in agriculture,airlines,fishing,space science and tranporatation activities at coastal areas ;sometimes weather is extrme,causing 
+ destruction .Heavy rain can cause flooding,too much hot weather for long time without rain can cause drought. Huge storms with strong winds,such as hurricanes and 
+ tornadoes, can do a great amount of damage.
+         
  
    ### How can technology help?
    
    For using historical data,  With the  help of technology  we predict weather forcasting.
-   Weather plays important role in
-                               Agriculture,
-                               Airlines,
-                               Fishing,
-                               Space sciencce,
-                               Transportation activities at coastal areas and sea.
+  
     
    ### The Idea
    With the help of historical data predict the weather conditions using machine learning and artificial intellegence.
