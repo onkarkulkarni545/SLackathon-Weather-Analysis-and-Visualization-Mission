@@ -17,15 +17,15 @@
    ## Short description
    
    ### What's the problem?
- Weather plays important role in agriculture,airlines,fishing,space science and tranporatation activities at coastal areas ;sometimes weather is extrme,causing 
+ Weather plays important role in agriculture,airlines,fishing,space science and tranporatation activities at coastal areas ;sometimes weather is extreme,causing 
  destruction .Heavy rain can cause flooding,too much hot weather for long time without rain can cause drought. Huge storms with strong winds,such as hurricanes and 
- tornadoes, can do a great amount of damage.
+ tornadoes; can do  damage of money,natural resources also human lifes.
          
  
    ### How can technology help?
    
    For using historical data,  With the  help of technology  we predict weather forcasting.
-   This weather prediction is depend upon IBM Whatson and python.
+   This weather prediction is depend upon IBM Whatson ,IBM cloud and python.
   
     
    ### The Idea
