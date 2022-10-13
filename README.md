@@ -24,7 +24,7 @@
  
    ### How can technology help?
    
-   For using historical data,  With the  help of technology  we predict weather forcasting.
+   For using historical data,  With the  help of technology  we predict weather forecasting.
    This weather prediction is depend upon IBM Whatson ,IBM cloud and python.
   
     
