@@ -47,4 +47,5 @@
    
  ## Demo Video
  ## The architecture      
-    ![Architecture](https://user-images.githubusercontent.com/114754693/199218451-48e6c819-cb05-4cc6-b881-ba031401bf4f.jpg)
+    ![Architecture](https://user-images.githubusercontent.com/114754693/199218730-8fbb3f2b-fb08-44b3-8ba1-6a275f165733.jpg)
+
