@@ -47,5 +47,5 @@
    
  ## Demo Video
  ## The architecture
-   ![Video transcription/translation app](C:\Users\onkar\OneDrive\Desktop\SLackathon)
+   ![Video transcription/translation app](https://www.draw.io/index.html)
 
