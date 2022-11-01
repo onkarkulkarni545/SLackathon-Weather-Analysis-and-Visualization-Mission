@@ -46,6 +46,6 @@
    For Government-take some decision on climate change
    
  ## Demo Video
- ## The architecture      
-    ![Architecture](https://user-images.githubusercontent.com/114754693/199218730-8fbb3f2b-fb08-44b3-8ba1-6a275f165733.jpg)
+ ## The architecture
+    C:\Users\onkar\OneDrive\Desktop\SLackathon
 
