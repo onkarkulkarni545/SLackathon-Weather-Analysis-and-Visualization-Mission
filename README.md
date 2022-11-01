@@ -47,5 +47,5 @@
    
  ## Demo Video
  ## The architecture
-   ![Video transcription/translation app](https://www.draw.io/index.html)
+   ![Video transcription/translation app](https://drive.google.com/drive/my-drive)
 
