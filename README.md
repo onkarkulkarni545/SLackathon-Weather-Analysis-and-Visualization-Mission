@@ -46,4 +46,5 @@
    For Government-take some decision on climate change
    
  ## Demo Video
-       
+ ## The architecture      
+    ![Architecture](https://user-images.githubusercontent.com/114754693/199218451-48e6c819-cb05-4cc6-b881-ba031401bf4f.jpg)
