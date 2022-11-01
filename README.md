@@ -47,5 +47,5 @@
    
  ## Demo Video
  ## The architecture
-    C:\Users\onkar\OneDrive\Desktop\SLackathon
+   ![ C:\Users\onkar\OneDrive\Desktop\SLackathon]
 
