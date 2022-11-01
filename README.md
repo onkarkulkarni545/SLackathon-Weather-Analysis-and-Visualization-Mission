@@ -46,5 +46,4 @@
    For Government-take some decision on climate change
    
  ## Demo Video
- ## The architecture
-   ![Video transcription/translation app](https://photos.google.com/share/AF1QipNCxwBKr5o53wOdhbVx1jzGP5ps-NnOL-7N0TVHWwSMpyCyH7CNObtccn4jxGrtsw/photo/AF1QipO4axui9hE7FxHn_t6n3nF-RiWbglmSruVxo7l9?key=dER1dnM3Y2dYeWZ6X1kzQTk3X2F0TnBBelhENVFn)
+ 
