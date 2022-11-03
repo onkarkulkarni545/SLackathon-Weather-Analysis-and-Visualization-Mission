@@ -11,7 +11,6 @@
   - [The architecture](#the-architecture)
   - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
-  - [Live demo](#live-demo)
 
 
    ## Short description
@@ -45,5 +44,4 @@
    
    For Government-take some decision on climate change
    
- ## Demo Video
  
