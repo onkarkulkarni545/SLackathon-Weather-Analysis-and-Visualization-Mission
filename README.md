@@ -52,3 +52,20 @@ https://user-images.githubusercontent.com/114754693/200024626-08bd0d86-3603-4f11
    ### Architecture
    
    ![Architecture](https://user-images.githubusercontent.com/114754693/200042339-9adffa5c-c9aa-4f9e-92f3-048c7dfb5df2.jpg)
+   
+   
+   
+  ### Long description
+
+ [Long description.docx](https://github.com/onkarkulkarni545/SLackathon-Weather_Analysis_and_Visualization_Mission/files/9940901/Long.description.docx)
+
+
+  ### project Visualization
+
+   [project dashboard.pdf](https://github.com/onkarkulkarni545/SLackathon-Weather_Analysis_and_Visualization_Mission/files/9940910/project.dashboard.pdf)
+   
+   ### project roadmap
+   
+    [Project Roadmap.docx](https://github.com/onkarkulkarni545/SLackathon-Weather_Analysis_and_Visualization_Mission/files/9940919/Project.Roadmap.docx)
+
+   
