@@ -10,6 +10,7 @@
   - [Demo video](#demo-video)
   - [The architecture](#the-architecture)
   - [Long description](#long-description)
+  - [project Visualization](#project Visualization)
   - [Project roadmap](#project-roadmap)
 
 
