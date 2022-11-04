@@ -49,9 +49,6 @@
 
 https://user-images.githubusercontent.com/114754693/200024626-08bd0d86-3603-4f11-ab7f-6850593c0da2.mp4
 
+   ### Architecture
    
-   
-   
-   
-   
- 
+   ![Architecture](https://user-images.githubusercontent.com/114754693/200042339-9adffa5c-c9aa-4f9e-92f3-048c7dfb5df2.jpg)
